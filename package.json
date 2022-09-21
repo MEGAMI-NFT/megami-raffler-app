@@ -1,0 +1,10 @@
+{
+  "name": "megami-raffler",
+  "version": "1.0.0",
+  "description": "The script drawing raffle for MEGAMI holders",
+  "main": "raffler.js",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.7.5"
+  }
+}

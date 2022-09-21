@@ -1,0 +1,19 @@
+{
+    "prizes": [
+        {"item": "Naoki NFT", "amount": 1},
+        {"item": "Naoki Stamp", "amount": 2},
+        {"item": "Chuck Stamp", "amount": 3}
+    ],
+    "holders": [
+        {"wallet": "0x1", "tickets": 10},
+        {"wallet": "0x2", "tickets":  1},
+        {"wallet": "0x3", "tickets": 20},
+        {"wallet": "0x4", "tickets":  5},
+        {"wallet": "0x5", "tickets":  3},
+        {"wallet": "0x6", "tickets":  2},
+        {"wallet": "0x7", "tickets": 10},
+        {"wallet": "0x8", "tickets":  1},
+        {"wallet": "0x9", "tickets": 20},
+        {"wallet": "0x10", "tickets": 5}
+    ]
+}
