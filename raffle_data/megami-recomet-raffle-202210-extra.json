@@ -1,0 +1,166 @@
+{
+  "prizes": [
+    {
+      "item": "Megami #04397",
+      "amount": 1
+    },
+    {
+      "item": "Megami #01639",
+      "amount": 1
+    }
+  ],
+  "holders": [
+    {
+      "wallet": "0xDe00F9a6896f3554603123c3e093f53542270a7f",
+      "tickets": 1
+    },
+    {
+      "wallet": "0xB293Ce478862E49Ed0aDA2C755c8abCD43Cc1e4C",
+      "tickets": 3
+    },
+    {
+      "wallet": "0x9294162Fc910d9D1f027B3dd2588055543412770",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x45Ab04C54264F485eeF8DB0c20E531E9D37cD53A",
+      "tickets": 1
+    },
+    {
+      "wallet": "0xF2Ef8Aa28EA7E38043D71D6e1aa011030bc31c5c",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x8358644760EdC10A99B6c065de4B179aB16878a3",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x611FcBbb7ccF25897E16E89676265834d9aa39f8",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x8E80A3c6ca902603b3b76B44a2c608d9dA0fd083",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x79eC854e8C5A6D04dBBb340cEf8209fE08B0c7b1",
+      "tickets": 3
+    },
+    {
+      "wallet": "0xFC60F68989D3e24ae41a5aF206c7E6D27E649A23",
+      "tickets": 5
+    },
+    {
+      "wallet": "0x347586A046dC76945a4fE30C64901B70eda71145",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x091961A1612FA1F36309DE763680a51AD7a3Dd9a",
+      "tickets": 8
+    },
+    {
+      "wallet": "0x5129B9e8f0502D52f56E29b99B79fe6b3A76F024",
+      "tickets": 2
+    },
+    {
+      "wallet": "0x0a64611B20e8F939BC5c2f4FB24486371Fd2896D",
+      "tickets": 2
+    },
+    {
+      "wallet": "0xDc6504CF4ef804c391A4850047BDdEDD11cF502A",
+      "tickets": 1
+    },
+    {
+      "wallet": "0xFd7535b4BD4C9D8C4c206428daCa1Ed73640f1Ad",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x880c4F74C3d4C39D75F8e2aD958F40671416bf66",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x7Bf414295BfCbAaa4cB5ad48bE2a6ca77A719C77",
+      "tickets": 1
+    },
+    {
+      "wallet": "0xa68359bb21aED9d3169D58EEfd7aD1BAB2ea093A",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x38C3b803071828780525E5C962927D9Fe70ce0e5",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x0cc8d2572d87AB497B8b3dc607c5d15589A1d62B",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x31Bc77CB65526c702a5977A7e3E5C91611aa868b",
+      "tickets": 1
+    },
+    {
+      "wallet": "0xC6B89A75307767d24e6134141B114F1C647968E7",
+      "tickets": 1
+    },
+    {
+      "wallet": "0xbe4a67a7dA7CB2640B1Aa8Ba6c5056095b3Cda98",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x866E6B8C7fA693cE981862E3e6cb8C5831909EC7",
+      "tickets": 1
+    },
+    {
+      "wallet": "0xBB50A37b754f03cAaB8EAE6e357c8c9db2A0A47b",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x79336089d91cD17a875aDF63C66DEf70F5eb7E8c",
+      "tickets": 1
+    },
+    {
+      "wallet": "0xed273816012B00C17f87F2f956D083FCa469C48f",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x5762f2f83284EDe620FeDeeE53B3d54cd5A5CE2e",
+      "tickets": 1
+    },
+    {
+      "wallet": "0xDD12A0c04BE3fF962E7321f11Bc08DbE227c25aC",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x700C1Aa69bA68F176fc14EF3C8c96d156e3587a2",
+      "tickets": 1
+    },
+    {
+      "wallet": "0xe76091F84dDf27f9e773cA8bD2090830943f615C",
+      "tickets": 1
+    },
+    {
+      "wallet": "0xA6259EA49bA6FF08e9cF2C9BAF8700a15732c589",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x3E863B9EDe98c4c1f256A9eC507a5FE4b7587817",
+      "tickets": 3
+    },
+    {
+      "wallet": "0x92e9b91AA2171694d740E7066F787739CA1Af9De",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x5D18b05A850F040b35C7318223143F52f7e1d363",
+      "tickets": 1
+    },
+    {
+      "wallet": "0x2b49d77862CE1ca91218A0498e227B623F117c6E",
+      "tickets": 2
+    },
+    {
+      "wallet": "0xD0FE971732E547059eA6009c79a2d6155bdb41a4",
+      "tickets": 2
+    }
+  ]
+}
